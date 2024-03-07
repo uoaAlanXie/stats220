@@ -1,4 +1,4 @@
-# Readme for STATS 220 purpose
+# Readme repo for STATS 220 purpose
 
 Welcome to my STATS 220 demo repository! 
 
