@@ -1,10 +1,10 @@
-# STATS 220 Demo Repo 😺
+# Readme for STATS 220 purpose
 
 Welcome to my STATS 220 demo repository! 
 
 **Get Involved:**
-- **Follow** for updates
-- **Watch** for notifications
+- **Follow** me account for updates
+- **Watch** my account for notifications
 - ⭐ if you like what you see
 - Check my [知乎 profile](https://www.zhihu.com/people/demo123HJ).
 
